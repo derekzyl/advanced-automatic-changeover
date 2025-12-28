@@ -255,3 +255,4 @@ For issues, questions, or contributions:
 
 **⚠️ Disclaimer**: This is a prototype system. Always consult with qualified electricians and follow local electrical codes before deploying in production environments.
 
+
